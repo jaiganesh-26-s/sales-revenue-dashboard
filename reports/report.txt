@@ -1,0 +1,4 @@
+Sales & Revenue Analysis Report
+===================================
+Total Sales: 253
+Total Revenue: 3680000
